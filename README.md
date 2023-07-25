@@ -11,6 +11,12 @@
 - Secure file operations with confirmation dialogs and undo functionality. 🔒❌
 - Customize file view with sorting options and file size indicators. 🔄📏
 
+## Screenshots 📸
+<div style="text-align: center;">
+  <img src="README/1.png" alt="Screenshot 1" style="display: inline-block; width: 45%; padding: 5px;">
+  <img src="README/2.png" alt="Screenshot 2" style="display: inline-block; width: 45%; padding: 5px;">
+</div>
+
 ## Getting Started 🚀
 
 To get started with FileSense, simply download the latest APK from the Releases section. Install it on your Android device, and you're ready to manage your files like a pro! 💪📂
